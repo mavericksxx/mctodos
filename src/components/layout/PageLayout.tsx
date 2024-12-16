@@ -16,7 +16,7 @@ export default function PageLayout({ children }: PageLayoutProps) {
             <MinecraftLogo />
           </div>
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-            Minecraft To-Do List
+            mncrft
           </h1>
           <p className="mt-2 text-gray-600 dark:text-gray-400">
             Made this to keep track of my minecraft projects :p
